@@ -6,7 +6,7 @@ module.exports = {
   author: "Ratthanin Kittisriphong mod by Nawa Phansaen",
   website: "",
   email: "",
-  git: "https://github.com/PrinceBot-Ratthanin/RapbitPro/",
+  git: "https://github.com/nawaphan123/RapbitProV_ETC",
   image: "/static/RapbitPro.png",
   version: "1.0.1",
 };
